@@ -1,0 +1,5 @@
+node_modules
+.env
+.bolt
+.wwebjs_auth
+.wwebjs_cache
