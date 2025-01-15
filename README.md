@@ -1,6 +1,6 @@
 ✨
 
-# 🤖 About Project
+# 🤖 About Project 
 
 A simple automation tool to post tweets directly from WhatsApp messages. This bot integrates WhatsApp and Twitter APIs, enabling to streamline the process of sharing messages from WhatsApp to Twitter — even when using WhatsApp on a mobile phone!
 
