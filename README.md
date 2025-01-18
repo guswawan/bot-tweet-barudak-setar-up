@@ -13,7 +13,7 @@ So, this was built. We just chat in the whatsapp group like usual, of course wit
 
 
 
-## 🚀 Features
+## 🚀 Features 
 
 - **WhatsApp Automation**: Post a tweet like sending a chat
 - **Twitter Integration**: Posts messages directly to Twitter account via the Twitter API v2.
