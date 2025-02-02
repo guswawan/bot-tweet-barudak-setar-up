@@ -1,4 +1,4 @@
-✨
+✨ [WIP]
 
 # 🤖 About Project  
 
@@ -19,4 +19,4 @@ So, this was built. We just chat in the whatsapp group like usual, of course wit
 - **Twitter Integration**: Posts messages directly to Twitter account via the Twitter API v2.
 - **Cross-Platform**: Works seamlessly with WhatsApp from mobile phones and desktops.
 
-[WIP]
+
